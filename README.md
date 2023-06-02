@@ -2,8 +2,6 @@ Curso de JavaScript - Udemy
 
 JavaScript do básico ao avançado (c/ Node.js e projetos)
 
-JavaScript do básico ao avançado
-
 Orientação a objetos no JavaScript
 
 Programar web com Node (Express/Sequelize/Handlebars/Body Parser)
